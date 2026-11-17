@@ -2,6 +2,8 @@
 docs/*.pdf
 build/
 
+*.vim
+
 # Github Autogen ignore
 
 # Prerequisites
